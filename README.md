@@ -1,5 +1,5 @@
 # DataAnalyse-i-Python
-Enkel dataAnalyse i Python
+Enkel dataanalyse i Python
 
 Dette er enkle analyser av data ved bruk av Python3 som analyseverktøy. 
 Denne mappen har jeg laget for arbeidsgivere, for å illustrere ferdigheter. 
